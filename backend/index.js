@@ -13,6 +13,6 @@ app.use('/api/notes', require('./routes/notes'))
 
 
 
-app.listen(3000, () => {
-  console.log(`Example app listening on port http://localhost:3000`);
+app.listen(5000, () => {
+  console.log(`Example app listening on port http://localhost:5000`);
 })
