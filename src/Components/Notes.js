@@ -23,7 +23,6 @@ const Notes = () => {
   
   const handleClick = (e)=> {
     e.preventDefault();
-    // updateNote(note.title, note.description, note.tag);
     console.log('updateing note', note);
   }
   const onChanging = (e)=> {
