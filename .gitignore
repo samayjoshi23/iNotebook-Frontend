@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 backend/
+backend/*.json
+backend/*.js
+backend/*.gitignore
 /.pnp
 .pnp.js
 
